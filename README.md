@@ -1,1 +1,1 @@
-
+A laravel mongoDB configuration
